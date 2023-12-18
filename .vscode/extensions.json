@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "ms-dotnettools.vscodeintellicode-csharp",
-        "platformio.platformio-ide"
+        "platformio.platformio-ide",
+        "circleci.circleci"
     ]
 }
